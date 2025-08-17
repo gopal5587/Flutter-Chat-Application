@@ -114,8 +114,8 @@ If your repo uses a `.env` file or flutter_dotenv, add these keys there. Never c
 /lib
   /src
     /models
-    /services       # firebase, notification, storage wrappers
-    /providers      # state management providers / blocs
+    /services       
+    /providers    
     /screens
     /widgets
     /utils
@@ -198,3 +198,4 @@ Thank you for using this Flutter Chat Application. If you'd like, I can:
 - Or generate environment templates (like .env.example) and README badges.
 
 ```
+
